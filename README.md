@@ -121,6 +121,3 @@ ollama pull llama3.2
 streamlit run app.py
 ```
 
----
-
-*Projet réalisé dans le cadre d'un stage — Project developed during an internship*
