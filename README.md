@@ -65,7 +65,7 @@ streamlit run app.py
 
 ### Description
 
-GastronoBot is an intelligent cooking assistant developed, built on a world cookbook compiled by Georg-August-Universität Göttingen. The project implements a fully hand-coded **RAG (Retrieval-Augmented Generation)** architecture, enhanced with an **agentic layer using tool calling**, allowing the LLM to dynamically choose which tools to use when answering questions.
+GastronoBot is an intelligent cooking assistant, built on a world cookbook compiled by Georg-August-Universität Göttingen. The project implements a fully hand-coded **RAG (Retrieval-Augmented Generation)** architecture, enhanced with an **agentic layer using tool calling**, allowing the LLM to dynamically choose which tools to use when answering questions.
 
 ### Architecture
 
