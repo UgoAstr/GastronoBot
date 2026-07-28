@@ -4,7 +4,7 @@
 
 ### Description
 
-GastronoBot est un assistant culinaire intelligent développé lors d'un stage, basé sur un livre de recettes du monde. Le projet met en œuvre une architecture **RAG (Retrieval-Augmented Generation)** entièrement codée à la main, enrichie d'une couche **agentique avec tool calling**, permettant au LLM de choisir dynamiquement les outils à utiliser pour répondre aux questions.
+GastronoBot est un assistant culinaire intelligent développé sur mon temps personnel, basé sur un livre de recettes du monde. Le projet met en œuvre une architecture **RAG (Retrieval-Augmented Generation)** entièrement codée à la main, enrichie d'une couche **agentique avec tool calling**, permettant au LLM de choisir dynamiquement les outils à utiliser pour répondre aux questions.
 
 ### Architecture
 
@@ -65,7 +65,7 @@ streamlit run app.py
 
 ### Description
 
-GastronoBot is an intelligent cooking assistant developed during an internship, built on a world cookbook compiled by Georg-August-Universität Göttingen. The project implements a fully hand-coded **RAG (Retrieval-Augmented Generation)** architecture, enhanced with an **agentic layer using tool calling**, allowing the LLM to dynamically choose which tools to use when answering questions.
+GastronoBot is an intelligent cooking assistant developed, built on a world cookbook compiled by Georg-August-Universität Göttingen. The project implements a fully hand-coded **RAG (Retrieval-Augmented Generation)** architecture, enhanced with an **agentic layer using tool calling**, allowing the LLM to dynamically choose which tools to use when answering questions.
 
 ### Architecture
 
